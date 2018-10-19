@@ -11,7 +11,7 @@ public class Demo2ApplicationTests {
 
     @Test
     public void contextLoads() {
-        System.out.println("www");
+        System.out.println("哈哈");
     }
 
 }
