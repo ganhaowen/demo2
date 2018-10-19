@@ -12,11 +12,6 @@ public class Demo2ApplicationTests {
     @Test
     public void contextLoads() {
         System.out.println("去去去去去去去");
-        System.out.println("哈哈");
-        System.out.println(456);
-        System.out.println(788);
-        System.out.println(741741741);
-        System.out.println(132);
     }
 
 }
