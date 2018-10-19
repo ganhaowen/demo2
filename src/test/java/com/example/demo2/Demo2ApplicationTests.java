@@ -11,7 +11,7 @@ public class Demo2ApplicationTests {
 
     @Test
     public void contextLoads() {
-        System.out.println("重中之重");
+        System.out.println("是是是");
     }
 
 }
