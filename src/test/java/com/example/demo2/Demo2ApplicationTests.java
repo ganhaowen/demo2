@@ -15,6 +15,7 @@ public class Demo2ApplicationTests {
         System.out.println(456);
         System.out.println(788);
         System.out.println(741741741);
+        System.out.println(132);
     }
 
 }
